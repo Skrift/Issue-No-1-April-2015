@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?xml-stylesheet type="text/xsl" href="http://skrift.io/articles/rss/xslt"?>
+<rss xmlns:a10="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Issues</title>
+    <link>http://skrift.io/articles/</link>
+    <description>Welcome to my blog</description>
+    <generator>Articulate, blogging built on Umbraco</generator>
+    <item>
+      <guid isPermaLink="false">1123</guid>
+      <link>http://skrift.io/articles/archive/the-king-is-dead-long-live-the-king/</link>
+      <title>The King is Dead... Long Live the King</title>
+      <description />
+      <pubDate>Tue, 07 Apr 2015 12:01:00 +0200</pubDate>
+      <a10:updated>2015-04-07T12:01:00+02:00</a10:updated>
+    </item>
+    <item>
+      <guid isPermaLink="false">1122</guid>
+      <link>http://skrift.io/articles/archive/no-regrets/</link>
+      <title>No Regrets</title>
+      <description />
+      <pubDate>Tue, 07 Apr 2015 12:01:00 +0200</pubDate>
+      <a10:updated>2015-04-07T12:01:00+02:00</a10:updated>
+    </item>
+    <item>
+      <guid isPermaLink="false">1124</guid>
+      <link>http://skrift.io/articles/archive/letter-from-the-editor-welcome-to-skrift/</link>
+      <title>Letter From The Editor: Welcome To Skrift</title>
+      <description />
+      <pubDate>Tue, 07 Apr 2015 12:01:00 +0200</pubDate>
+      <a10:updated>2015-04-07T12:01:00+02:00</a10:updated>
+    </item>
+  </channel>
+</rss>
